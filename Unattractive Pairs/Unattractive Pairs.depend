@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1711641385 source:c:\users\amish\c\unattractive pairs\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1711640694 source:c:\users\amish\c\unattractive pairs\mine.c
+	<stdio.h>
+	<stdlib.h>
+
